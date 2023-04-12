@@ -8,7 +8,7 @@ Compilador seleccionado: C/C++ Compile Run
   a. Si no tiene, cree una cuenta GitHub.  
   b. Si no lo hizo, asocie a su cuenta GitHub el email @frba y verifique. 
 
-2. Repositorio para público para la materia  
+#### 2. Repositorio para público para la materia  
   a. Cree un repositorio publico llamado SSL.
   b. En la raíz de ese repositorio, escriba el archivo readme.md que actúa como  front page del repositorio personal.  
   c. Cree la carpeta 00-CHelloworld.
