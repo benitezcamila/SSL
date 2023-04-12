@@ -14,7 +14,7 @@ Compilador seleccionado: C/C++ Compile Run
   c. Cree la carpeta 00-CHelloworld.
   d. En esa carpeta, escriba un segundo archivo readme.md que actúa como front page de la resolución.  
   
-##### 3. Compilador  
+#### 3. Compilador  
   a. Seleccione, instale, y configure, y pruebe un compilador C11 o C18.  
   b. Registre los resultados anteriores de la siguiente manera:  
     i. Indique en el readme.md el compilador seleccionado.  
@@ -22,5 +22,5 @@ Compilador seleccionado: C/C++ Compile Run
     iii. Ejecute el programa y verifique que la salida es la esperada.  
     iv. Ejecute el programa con la salida redireccionada a un archivo output.txt; verifique su contenido.  
 
-##### 4. Publicación  
+#### 4. Publicación  
   a. Publique el trabajo en el repositorio personal SSL la carpeta 00- CHelloWorld con readme.md, hello.c, y output.txt. 
