@@ -2,7 +2,7 @@
 Nombre: Benitez, Camila Nahir  
 Legajo: 208.898-8  
 Usuario github: benitezcamila  
-Compilador seleccionado: C/C++ Compile Run
+Compilador seleccionado: MSYS2 v12.2.0
 ## Consigna: 
 #### 1. Cuenta en GitHub  
   a. Si no tiene, cree una cuenta GitHub.  
